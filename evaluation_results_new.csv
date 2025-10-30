@@ -1,0 +1,6 @@
+Generator,Judge,response in a well-structured JSON format,mitigation plan can be implemented as that it is feasible,mitigation plan is efficient as that it solves the root cause,mitigation plan is scalable as that it can be applied for large-scale issues,mitigation plan is clear for the operator as that it provides detailed steps and guidance,Overall Avg
+_home_db2003_Desktop_Amr_Tests_RCAEval_saved_models_final_model,meta-llama/Llama-3.2-3B-Instruct,8.25,8.15,8.08,8.10,8.68,8.25
+_home_db2003_Desktop_Amr_Tests_RCAEval_saved_models_final_model,ibm-granite/granite-4.0-micro,8.10,7.50,9.30,10.00,7.70,8.52
+_home_db2003_Desktop_Amr_Tests_RCAEval_saved_models_final_model,microsoft/bitnet-b1.58-2B-4T,5.45,8.35,7.10,7.80,7.90,7.32
+_home_db2003_Desktop_Amr_Tests_RCAEval_saved_models_final_model,Qwen/Qwen3-1.7B,8.00,8.80,9.25,8.70,9.90,8.93
+_home_db2003_Desktop_Amr_Tests_RCAEval_saved_models_final_model,google/gemma-2-2b-it,7.20,7.10,7.90,7.60,8.10,7.58
